@@ -4,13 +4,13 @@ This is the repository for the Lab 7 assignment for the CS5008 course. This repo
 
 ## Team Members & Responsibilities
 
-* **Benny**: Responsible for **Problem 1** and **Problem 3**.
-* **Collaborator**: Responsible for **Problem 2**.
+* **Zichen Shen**: Responsible for **Problem 1** and **Problem 3**.
+* **Xiao Yang**: Responsible for **Problem 2**.
 
 ## Repository Structure
 
 * `Problem1/`: Java source code and solution for Problem 1.
-* `Problem2/`: (To be added) Solution for Problem 2.
+* `Problem2/`: Java source code and solution for Problem 2.
 * `Problem3/`: Java source code and solution for Problem 3.
 
 ## Environment
