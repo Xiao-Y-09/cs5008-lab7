@@ -1,6 +1,6 @@
-# CS5008 - Lab 7
+# CS5004 - Lab 7
 
-This is the repository for the Lab 7 assignment for the CS5008 course. This repository contains solutions for the 3 problems assigned in the lab.
+This is the repository for the Lab 7 assignment for the CS5004 course. This repository contains solutions for the 3 problems assigned in the lab.
 
 ## Team Members & Responsibilities
 
